@@ -1,3 +1,0 @@
-#!/bin/sh -e
-/opt/$NEWMYSELF
-exit 0
